@@ -204,7 +204,7 @@ export const business = {
   },
 
   theme: {
-    accent: "#B8860B",
+    accent: "#C8A97E",
     bgPrimary: "#0D0D0D",
     bgSecondary: "#121212",
     cardBg: "#1F1F1F",
